@@ -1,0 +1,9 @@
+Package: com.imod.customclock
+Name: CustomClock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A simple tweak showing a customizable clock on SpringBoard.
+Maintainer: imod-commission
+Author: imod-commission
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.0)
